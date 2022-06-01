@@ -1,0 +1,78 @@
+body{
+    scroll-behavior: smooth;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(14, 14, 14);
+    margin: 0%;
+}
+@media (max-width: 900px)
+{
+    img.border{
+        border-radius: 50%;
+        width: 50%;
+    }
+}
+@media (min-width: 901px) and (max-width: 1200px)
+{
+    img.border{
+        border-radius: 50%;
+        width: 40%;
+    }
+}
+@media (min-width: 1201px)
+{
+    img.border{
+        border-radius: 50%;
+        width: 30%;
+    }
+}
+
+.corletra{
+    color: white;
+}
+.cornav{
+    color: white;
+}
+.fundo1{
+    background-color: black;
+}
+.espaco{
+    height: 40px;
+}
+.fundo2{
+    background-color: rgb(8, 8, 8);
+}
+.fa-whatsapp{
+    color: green;
+}
+.escola{
+    font-size: 25px;
+    color: rgb(197, 197, 197);
+}
+.curso{
+    font-size: 30px;
+    color: rgb(197, 197, 197);
+}
+h1.corletras{
+    color: #B22222;
+}
+#nome{
+    color: #a2a3a4;
+}
+@media(max-width: 767px)
+{
+    img.logo{
+        width: 60%;
+    }
+}
+@media (min-width: 768px) and (max-width: 1200px)
+{
+    img.logo{
+        width: 100%;
+    }
+}
+@media(min-width: 1201px)
+{
+    img.logo{
+        width: 75%;
+    }
+}
