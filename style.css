@@ -26,10 +26,7 @@ body{
     }
 }
 
-.corletra{
-    color: white;
-}
-.cornav{
+.corletra, .cornav{
     color: white;
 }
 .fundo1{
@@ -75,4 +72,19 @@ h1.corletras{
     img.logo{
         width: 75%;
     }
+}
+img.logoConhecimento{
+    width: 40px;
+}
+img.logoConhecimento2{
+    width: 27px;
+}
+img.logoConhecimento3{
+    width: 60px;
+}
+img.logoConhecimentoc{
+    width: 39px;
+}
+img.logoConhecimentophp{
+    width: 70px;
 }
